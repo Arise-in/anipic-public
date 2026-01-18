@@ -78,5 +78,15 @@
     "mimeType": "image/png",
     "repository": "anipic-public",
     "rawUrl": "https://raw.githubusercontent.com/Arise-in/anipic-public/main/images/JDvam6.png"
+  },
+  {
+    "imageId": "5Az0u7",
+    "filename": "test.png",
+    "uploadedAt": "2026-01-18T15:23:11.338Z",
+    "uploader": "test",
+    "size": 70,
+    "mimeType": "image/png",
+    "repository": "anipic-public",
+    "rawUrl": "https://raw.githubusercontent.com/Arise-in/anipic-public/main/images/5Az0u7.png"
   }
 ]
