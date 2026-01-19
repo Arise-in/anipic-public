@@ -128,5 +128,16 @@
     "mimeType": "image/png",
     "repository": "anipic-public",
     "rawUrl": "https://raw.githubusercontent.com/Arise-in/anipic-public/main/images/qBUnY5.png"
+  },
+  {
+    "imageId": "lN4Jss",
+    "filename": "IMG-20250925-WA0001.jpg",
+    "uploadedAt": "2026-01-19T18:46:25.153Z",
+    "uploader": "anonymous",
+    "size": 221041,
+    "mimeType": "image/jpeg",
+    "repository": "anipic-public",
+    "rawUrl": "https://raw.githubusercontent.com/Arise-in/anipic-public/main/images/lN4Jss.jpg",
+    "isPrivate": false
   }
 ]
